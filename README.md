@@ -103,7 +103,7 @@ DB_USER:	Usuário do banco	postgres
 DB_PASSWORD:	Senha do banco	1234 
 
 
-📥 Como importar o projeto do GitHub
+## 📥 Como importar o projeto do GitHub
 
 Você pode executar o projeto clonando o repositório diretamente do GitHub.
 
